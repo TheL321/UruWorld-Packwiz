@@ -1,0 +1,13 @@
+name = "UruWorld"
+author = "TheL321, Tadeta"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "36a066a3622368523119b0a175f07fbfdc601b3a53ce8ae0f9e9663fd6c5d3f8"
+
+[versions]
+forge = "14.23.5.2864"
+minecraft = "1.12.2"

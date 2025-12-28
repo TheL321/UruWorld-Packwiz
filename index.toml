@@ -1,0 +1,316 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/!configanytime-3.0.jar"
+hash = "29fe190f0d1bb0b3841b2b9f315a5d561cab9f587df6164a0205440540577575"
+
+[[files]]
+file = "mods/!mixinbooter-10.7.jar"
+hash = "8bb53080aede2d2b1e1c5f713bbf49a38f20add8caa3d52fabcdf8a536b55a18"
+
+[[files]]
+file = "mods/AdPother-1.12.2-1.2.25.0-build.0673.jar"
+hash = "7f9698b2416612e1b8a5ff51d08efe0c59b26eb17aeeb7aa7e715b143b3faca4"
+
+[[files]]
+file = "mods/AppleCore-mc1.12.2-3.4.0.jar"
+hash = "9e4980728afb5941bdd67c435d2fddf260d88685563343f32d009bae01b64962"
+
+[[files]]
+file = "mods/AquaAcrobatics-1.15.4.jar"
+hash = "506ee8e264c347fad33302183b8f4daddb05d5e5f75c0b6d833266c886e127ce"
+
+[[files]]
+file = "mods/BetterAdvancements-1.12.2-0.1.0.77.jar"
+hash = "c70cda15d9c76cc79423399c1002977d6dfcc229128b33b87f25d5b4238bea34"
+
+[[files]]
+file = "mods/BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar"
+hash = "1c53d3ee39f557162591f618c58b79dc6861d24522ef785794ee4a815f8a3908"
+
+[[files]]
+file = "mods/Bookshelf-1.12.2-2.3.590.jar"
+hash = "043afbddfd567e753a893f5a8f0e052db7c45209a08d09d9dcf32cadca764109"
+
+[[files]]
+file = "mods/CTM-MC1.12.2-1.0.2.31.jar"
+hash = "433f441dc9c0aa75a4168df832900720ddadac1f22cc3bba4e4f25ca789b268b"
+
+[[files]]
+file = "mods/Chisel-MC1.12.2-1.0.2.45.jar"
+hash = "64c62f20a89939db2c03d47737c7bd371d8bd8c10ae42e2e8c63432ae89db2c7"
+
+[[files]]
+file = "mods/Clumps-3.1.2.jar"
+hash = "f3ce670e0087f4c6b770fd05ae5c3dfd8462f74c62397932ea72954d1c6c8df4"
+
+[[files]]
+file = "mods/CreativeCore_v1.10.71_mc1.12.2.jar"
+hash = "b0ef34ec816fa91451f8d4b62c016c159ab3559d6f75870790d1215943f009d5"
+
+[[files]]
+file = "mods/DynamicTrees-1.12.2-0.9.29.jar"
+hash = "82b779226d671ebbe305fca7d673a10fbc192508d7667273628b5c299e6fd83c"
+
+[[files]]
+file = "mods/DynamicTreesBOP-1.12.2-1.5.2.jar"
+hash = "230a3f4a2a8e45b1331d217e8f44b6da3abec27dbaddfaf7e37cb475637038cb"
+
+[[files]]
+file = "mods/EnchantingPlus-1.12.2-5.0.176.jar"
+hash = "25a8d4ac34edc8204cbc32abe6cfad16fe9fc67f3d2d3afdcc9948cfd5b05c37"
+
+[[files]]
+file = "mods/EnchantmentDescriptions-1.12.2-1.1.15.jar"
+hash = "c965169400f34ff869f2af9cc645e86d9e0e3d3c46a8edadd63db4a8f9c43b91"
+
+[[files]]
+file = "mods/FTBBackups-1.1.0.1(1).jar"
+hash = "6b6bcbbf6ac4528657345e1696339528a44643ecb06e6137908eafb8432bd962"
+
+[[files]]
+file = "mods/ForgeEndertech-1.12.2-4.5.6.1-build.0648.jar"
+hash = "21e155cacd664ba822862ce459cd4b5c8aa56d4273d66d1408904b71b6115104"
+
+[[files]]
+file = "mods/Forgelin-1.8.4.jar"
+hash = "ccfcad80ef73ab815875a91979128ed58c262c479c7c0e5da65b225954bee197"
+
+[[files]]
+file = "mods/FullscreenWindowed-1.12-1.6.0-1.jar"
+hash = "4b28e3ff8c9f4a08a8c091739ff70bc5df2c682aaa640c81742df42c30e1ec42"
+
+[[files]]
+file = "mods/Future-MC-0.2.21.jar"
+hash = "e1e6ec0397ae0479ad1d42557a03b97f9a159628f83829bb5ceab4822af978be"
+
+[[files]]
+file = "mods/GPUTape-1.12.2-1.0.4.jar"
+hash = "cfd43d4c56e23321e1f20361e7cc8ce5dbcfdf6f0d250308676bba7e687ab16c"
+
+[[files]]
+file = "mods/GustNovs-Motorsports-1.6.jar"
+hash = "255980df26dfb6833167b8e86883dae1da2d744c0aea9e353e3e8eb964292009"
+
+[[files]]
+file = "mods/HadEnoughItems_1.12.2-4.29.8.jar"
+hash = "89df7f14f5f9326edf6c2ca0c630ec23a87db518824a45925c78dd204212abd1"
+
+[[files]]
+file = "mods/Healer-1.2.1.jar"
+hash = "db046268d6dd862c21d85374c4c5c18d149554d6cb43a4578ccc8057f44baefc"
+
+[[files]]
+file = "mods/Hwyla-1.8.26-B41_1.12.2.jar"
+hash = "e9ddecd4920ee9a57e11e4b43fb1dd395bbf37e276be726a99a2590272304124"
+
+[[files]]
+file = "mods/Immersive Vehicles-1.12.2-22.18.1.jar"
+hash = "1fca3c6cbc5a5c15ad96aaa88e5651736a7885be71161f8c0298358bf5c634a2"
+
+[[files]]
+file = "mods/JustEnoughResources-1.12.2-0.9.3.203.jar"
+hash = "dfacf1111862a95ed5803499ce5229a194a2e92be7e308fd5f423b017addbc09"
+
+[[files]]
+file = "mods/LittleFrames_v1.0.2_mc1.12.2.jar"
+hash = "05c8055589e44f0a495c73ddbd5e0c66956ae06a31b8b89799d53e8696bc153c"
+
+[[files]]
+file = "mods/LittleTiles_v1.5.0-pre304_mc1.12.2.jar"
+hash = "b112c628b8cca86879ab2fadbc9c69c8e49e770442a98fd7f260186c878fbe86"
+
+[[files]]
+file = "mods/LunatriusCore-1.12.2-1.2.0.42-universal.jar"
+hash = "67c5e8d8e975172d838f765040130ea0f73ec7a590b4470217a2f5516fdc652b"
+
+[[files]]
+file = "mods/MTS Official Pack-1.12.2-V28.2.jar"
+hash = "b861e95211ab09458791407b09841016222c75dde18e12e06797a172c34d9551"
+
+[[files]]
+file = "mods/MouseTweaks-2.10.1-mc1.12.2.jar"
+hash = "5e13315f4e0d0c96b1f9b800a42fecb89f519aca81d556c91df617c8751aa575"
+
+[[files]]
+file = "mods/RenderLib-1.12.2-1.4.5.jar"
+hash = "eeca6dc4ef5acf3069e4b8747e4dbfa253323cc44cd90c8ddb6d70587fe0d35f"
+
+[[files]]
+file = "mods/Ruins-1.12.2.jar"
+hash = "c9d4c4761f88e9e2e453778fd48d33288b48e07846e1fc578a5eea56ba0b888c"
+
+[[files]]
+file = "mods/SmoothFont-mc1.12.2-2.1.4.jar"
+hash = "986090ef0d56be1d6f46a9dae7a3669098c0e3f995ed6ba3d2b01223ce9b129a"
+
+[[files]]
+file = "mods/ToolBelt-1.12.2-1.9.14.jar"
+hash = "66f4a7c5b894fe2d1c134c1868094709d9eceee36a5ea2ecec70b01ef1f5079c"
+
+[[files]]
+file = "mods/TrashSlot_1.12.2-8.4.10.jar"
+hash = "ddb13a0209cd38bdff452cf583e7453fe10f45f3c8e49e444af533d6cc82f940"
+
+[[files]]
+file = "mods/UNU Parts Pack [MTS] 1.12.2-22.18.0-6.7.3.jar"
+hash = "6046dcfcb3de33b7219e8e50243d06958eee46db061ce3762a04ef0557d26a2b"
+
+[[files]]
+file = "mods/UniversalTweaks-1.12.2-1.17.0.jar"
+hash = "d86a0b2bd3d1c855e32300f125e738bd56f8d91637dc6c83c9d57fdbd7424308"
+
+[[files]]
+file = "mods/[1.12.2] SecurityCraft v1.10.1.jar"
+hash = "02668ea8d493a2bc97fa67d78a9350faa7a3551f8bdf56c7d577cc3753fc29fc"
+
+[[files]]
+file = "mods/[MC1.12.2]DeconTable-3.0.4.jar"
+hash = "541f7aaec253c76b7ec666d9049a2a3b1f5cd13d23ea6e71434852b839d7f28d"
+
+[[files]]
+file = "mods/_MixinBootstrap-1.1.0.jar"
+hash = "17c589aad9907d4ba56d578d502afa80aac1ba2fa8677e8b4d06c019c41d7731"
+
+[[files]]
+file = "mods/_supermartijn642corelib-1.1.18a-forge-mc1.12.jar"
+hash = "ba6a04d2b6bf5cb962ae650c1c063deb483317f07b9194f6ca9d6642183808cd"
+
+[[files]]
+file = "mods/bettercaves-1.12.2-2.0.4.jar"
+hash = "b81b66c2b90431d0cd764f95a2d7ff4561052fa040e8e694b7e2b8e8fa974a00"
+
+[[files]]
+file = "mods/comforts-1.12.2-1.4.1.3.jar"
+hash = "62183a1fa282032e2fea2c3ff6348611a03685a50769199243a42d38605d08a6"
+
+[[files]]
+file = "mods/creativeaudit-1.0.0.jar"
+hash = "da3ebf1b40e1d23b4c3d7f5fbe13e1f8a55ad77ffe0de92e8e99690e48142ca9"
+
+[[files]]
+file = "mods/device-mod-0.4.1-1.12.2.jar"
+hash = "a50efcb6e337048b7e1dcb733d0b38f01f02b926b7dce84d40248ef5430ac792"
+
+[[files]]
+file = "mods/fancymenu_forge_2.14.9_MC_1.12-1.12.2.jar"
+hash = "a803fe18e69f4df03de1b296f8d3c19848d2424f3435cc5e0ecd481436d5094f"
+
+[[files]]
+file = "mods/furniture-6.3.2-1.12.2.jar"
+hash = "f412373512e14b431736ec54f465bf196b81c07939fa484202f457e1c0fbf144"
+
+[[files]]
+file = "mods/guns-0.15.3-1.12.2.jar"
+hash = "62325d26dfb2d7c2e4dfdd5f5609fb51a4f7222b35a22b9b6e42a950b9c92d80"
+
+[[files]]
+file = "mods/industrialcraft-2-2.8.222-ex112.jar"
+hash = "f96b1886b6d060b308fb811029d5c5cc76deb17b835aa368dcb6071f2de290d4"
+
+[[files]]
+file = "mods/ironfurnaces-1.3.5.jar"
+hash = "82d6eb4011a8a4b62684f206552fed2b487ac1be3dd55967361447d3672f20df"
+
+[[files]]
+file = "mods/journeymap-1.12.2-5.7.1p3.jar"
+hash = "b72c9dd7e6dd0f7438c01ea8e440519bf4a3c0b47674810929a9c899dc98b406"
+
+[[files]]
+file = "mods/konkrete_forge_1.6.1_MC_1.12-1.12.2.jar"
+hash = "5b412639b99dea3dbc7311cd4bdcf310dbdfd8e9c6eba4f2abe839c261aa0c7a"
+
+[[files]]
+file = "mods/lemonskin-3.0.2.jar"
+hash = "44b8205ab58d7f7a5aa5ce2da767de34cc470311ab05b1af63edace089349406"
+
+[[files]]
+file = "mods/malisiscore-1.12.2-6.5.1.jar"
+hash = "7dfc575fe73e4b38d25fca925e8248d12956b63cb874d38a66e224d7bc794226"
+
+[[files]]
+file = "mods/malisisdoors-1.12.2-7.3.0.jar"
+hash = "d2f453fde73d40cfcde685f5c87c0d11dcc8e8ef31f38439e76a3e7c53809e99"
+
+[[files]]
+file = "mods/melonlib-1.12.2-1.8.1.jar"
+hash = "9c9031400322ffe34df0bfc3eeef9ee2077b5db7fb1fa3f173d054b2f1998c58"
+
+[[files]]
+file = "mods/minecraft-transport-simulator.pw.toml"
+hash = "e5be21ed9ef2940a4692b95e53920111b28bf505a90885c22466a571d106a92e"
+metafile = true
+
+[[files]]
+file = "mods/movingelevators-1.4.11-forge-mc1.12.jar"
+hash = "d7c69d03c03862785e4514a6c0e556c07108f110a80fae40b152c36b8615d5d4"
+
+[[files]]
+file = "mods/mysticallib-1.12.2-1.13.0.jar"
+hash = "9293907825d431db479afd87fcc70b5d09b672231c2f66db2f41e74de02e4891"
+
+[[files]]
+file = "mods/obfuscate-0.4.2-1.12.2.jar"
+hash = "5bcc67ff15e7b0155268dda6b78b103d6abf658ad5c9ca0187f26923d34151fb"
+
+[[files]]
+file = "mods/offlinelogin-1.0.0.jar"
+hash = "cda1d0cb467d9248ee0a64aaa54518185b11957fcb487771b12c04f4c0a22464"
+
+[[files]]
+file = "mods/performant-1.11.jar"
+hash = "09a0abb8f2ad8b10f91ace86fe9d788927399c03bafb1d7c951fabffa1a280b0"
+
+[[files]]
+file = "mods/pipeblocker-forge17_112-1.2.0.jar"
+hash = "c1f63d4049e590c56aa900ca2e22808ed112b7e504916dc88e2179fd18476295"
+
+[[files]]
+file = "mods/primebank-1.0.jar"
+hash = "e9c3a453f9704545adc25baf01ba20c19d30811b5f890a876c0c2c36a0a93008"
+
+[[files]]
+file = "mods/rawinput-1.8.0.jar"
+hash = "decf329cd665cf382a7e2f2f9ac7649ecd3c60ea6d5c415de80a3ee02d3d4a64"
+
+[[files]]
+file = "mods/relictium-1.2.0.jar"
+hash = "af8bb72fa727d7ece4259d738598426696c449b222d569da90801215ab14578e"
+
+[[files]]
+file = "mods/serializationisbad-1.5.2.jar"
+hash = "2031c8edce4b124f29a33c9ba892b9049d19fcff4c711e2aa276d051cf0d5d31"
+
+[[files]]
+file = "mods/spark-forge.jar"
+hash = "c77a59d84d68dd32f8394f7e0cf21e229db36c220c8f2f82bcffd832f1ffdaea"
+
+[[files]]
+file = "mods/startuptimer-1.1.0.jar"
+hash = "d95eb93a443868a1a98da6b0acc2c586cc6177230781c1216104683b8f60c1d0"
+
+[[files]]
+file = "mods/supermartijn642configlib-1.1.8-forge-mc1.12.jar"
+hash = "9f15755020a966023eae8e9d1446441d175a88c09b1e458a47fcb3024d5e57f8"
+
+[[files]]
+file = "mods/tombstone-1.12.2-4.7.5.jar"
+hash = "d5ac0bce174b18cbe5a561752d035d6f5ec584f939a7ab85c1965084c4448745"
+
+[[files]]
+file = "mods/unu-civilian-pack-for-mts.pw.toml"
+hash = "abe18d0732dc2108e3c4fb53475a7163f2a83ac13043e8e28c86a27653b26190"
+metafile = true
+
+[[files]]
+file = "mods/unu-parts-pack.pw.toml"
+hash = "674b38b08ea9b1f585060857cd34a856474f80679848db2fb4f67e3e6b025301"
+metafile = true
+
+[[files]]
+file = "mods/vehicle-mod-0.44.1-1.12.2.jar"
+hash = "9400e7f0d775ba2b6ee67aea0710e252d4e9e7d40c6e03ae9d8bed1b6d1effa2"
+
+[[files]]
+file = "mods/vintagefix-0.6.2.jar"
+hash = "03a946ed9b6dcc459f4e9765fe4aad61a7fcaf9886ac115e8ba1902fbddbf60c"

@@ -1,0 +1,13 @@
+name = "UNU Civilian Vehicles [MTS/IV] [IR] (immersive cars trucks planes & trains)"
+filename = "UNU Civilian Pack [MTS] 1.12.2-22.18.0-6.7.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "73d21d0260574ab4bedc96b9b1959ac58b3bd23f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7064124
+project-id = 292897
