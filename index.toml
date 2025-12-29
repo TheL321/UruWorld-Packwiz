@@ -362,6 +362,10 @@ file = "mods/vintagefix-0.6.2.jar"
 hash = "03a946ed9b6dcc459f4e9765fe4aad61a7fcaf9886ac115e8ba1902fbddbf60c"
 
 [[files]]
+file = "options.txt"
+hash = "4ffa7d81ac5762bb6bd402fa2a5b7dc7dc890b921b8891fd61007f143f0110f8"
+
+[[files]]
 file = "resourcepacks/Modernity-f3-3.10.2.zip"
 hash = "a934b1752d5b979ca0d0c9106969a43ac19b3bafdb794e8c899cbcda266bd592"
 
