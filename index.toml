@@ -189,6 +189,10 @@ file = "mods/MouseTweaks-2.10.1-mc1.12.2.jar"
 hash = "5e13315f4e0d0c96b1f9b800a42fecb89f519aca81d556c91df617c8751aa575"
 
 [[files]]
+file = "mods/NoiseThreader-1.1.2.jar"
+hash = "cf14fc252c48d1ba8f80f8afff9977c8d36961b1c058ff88b57ee47a88822725"
+
+[[files]]
 file = "mods/RenderLib-1.12.2-1.4.5.jar"
 hash = "eeca6dc4ef5acf3069e4b8747e4dbfa253323cc44cd90c8ddb6d70587fe0d35f"
 
@@ -233,6 +237,10 @@ file = "mods/_supermartijn642corelib-1.1.18a-forge-mc1.12.jar"
 hash = "ba6a04d2b6bf5cb962ae650c1c063deb483317f07b9194f6ca9d6642183808cd"
 
 [[files]]
+file = "mods/`FermiumBooter-1.4.1.jar"
+hash = "acbf49a2ace819b775e648c079634fc0a6c8a54cdf1bc2098eb0dd8f011afe6b"
+
+[[files]]
 file = "mods/bettercaves-1.12.2-2.0.4.jar"
 hash = "b81b66c2b90431d0cd764f95a2d7ff4561052fa040e8e694b7e2b8e8fa974a00"
 
@@ -251,6 +259,10 @@ hash = "a50efcb6e337048b7e1dcb733d0b38f01f02b926b7dce84d40248ef5430ac792"
 [[files]]
 file = "mods/fancymenu_forge_2.14.9_MC_1.12-1.12.2.jar"
 hash = "a803fe18e69f4df03de1b296f8d3c19848d2424f3435cc5e0ecd481436d5094f"
+
+[[files]]
+file = "mods/fermiumasm-5.28(1).jar"
+hash = "e6bd769fc38d4f3d89cbc6d3b793c406977d54baae0a6f3572681439a1e72f0d"
 
 [[files]]
 file = "mods/furniture-6.3.2-1.12.2.jar"
@@ -318,7 +330,7 @@ hash = "c1f63d4049e590c56aa900ca2e22808ed112b7e504916dc88e2179fd18476295"
 
 [[files]]
 file = "mods/primebank-1.0.jar"
-hash = "e9c3a453f9704545adc25baf01ba20c19d30811b5f890a876c0c2c36a0a93008"
+hash = "1400c017b4da331fbd76e4571369266fd11af10c2414ee21e2d94dded3c2405e"
 
 [[files]]
 file = "mods/rawinput-1.8.0.jar"
@@ -335,6 +347,10 @@ hash = "2031c8edce4b124f29a33c9ba892b9049d19fcff4c711e2aa276d051cf0d5d31"
 [[files]]
 file = "mods/spark-forge.jar"
 hash = "c77a59d84d68dd32f8394f7e0cf21e229db36c220c8f2f82bcffd832f1ffdaea"
+
+[[files]]
+file = "mods/spark-unforged-1.11.140-forge.jar"
+hash = "4c66e72dd11d8b5b4c43bca24dffbdd8fe52054ca03907b92505cdf1eda38914"
 
 [[files]]
 file = "mods/startuptimer-1.1.0.jar"
