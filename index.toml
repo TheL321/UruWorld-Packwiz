@@ -345,10 +345,6 @@ file = "mods/serializationisbad-1.5.2.jar"
 hash = "2031c8edce4b124f29a33c9ba892b9049d19fcff4c711e2aa276d051cf0d5d31"
 
 [[files]]
-file = "mods/spark-forge.jar"
-hash = "c77a59d84d68dd32f8394f7e0cf21e229db36c220c8f2f82bcffd832f1ffdaea"
-
-[[files]]
 file = "mods/spark-unforged-1.11.140-forge.jar"
 hash = "4c66e72dd11d8b5b4c43bca24dffbdd8fe52054ca03907b92505cdf1eda38914"
 
