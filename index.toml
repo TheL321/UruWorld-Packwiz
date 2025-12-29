@@ -105,10 +105,6 @@ file = "mods/Hwyla-1.8.26-B41_1.12.2.jar"
 hash = "e9ddecd4920ee9a57e11e4b43fb1dd395bbf37e276be726a99a2590272304124"
 
 [[files]]
-file = "mods/Immersive Vehicles-1.12.2-22.18.1.jar"
-hash = "1fca3c6cbc5a5c15ad96aaa88e5651736a7885be71161f8c0298358bf5c634a2"
-
-[[files]]
 file = "mods/JustEnoughResources-1.12.2-0.9.3.203.jar"
 hash = "dfacf1111862a95ed5803499ce5229a194a2e92be7e308fd5f423b017addbc09"
 
