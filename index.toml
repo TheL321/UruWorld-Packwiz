@@ -1,6 +1,58 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".nojekyll"
+hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+
+[[files]]
+file = "config/fancymenu/config.txt"
+hash = "5df25d7cebbe46df3cc055b10cc0889cb5596dcce1501ba7544d23589c4a8dbb"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "6dfe1a1fa3c8bea225b68ea388db57cbce7f373766479e195b8b89104432c6d7"
+
+[[files]]
+file = "config/fancymenu/customization/uruworld.txt"
+hash = "aa68f7a0d0bb0ffd534ff9677fb2ed33d4246417d0fa6b2f4e668ff298b68bc3"
+
+[[files]]
+file = "config/fancymenu/locals/de_de.local"
+hash = "13485f1d678322a328e798c34f1ff9f7f9c690464d1050e2e7c1ea02b0f49b61"
+
+[[files]]
+file = "config/fancymenu/locals/en_us.local"
+hash = "b0d171d4b61ec85b02e1f1e30a1cdc299ce5f5236dbad01689606923d99ca4cb"
+
+[[files]]
+file = "config/fancymenu/locals/pl_pl.local"
+hash = "66d4e9b270d4d92bffd85b13255def475d3ff6c865965deaa700be2ed1b08bc0"
+
+[[files]]
+file = "config/fancymenu/locals/pt_br.local"
+hash = "0b19fc1d8bd8c86435eb39886116aceb3b4554fa749561fc87be2df0157a134c"
+
+[[files]]
+file = "config/fancymenu/locals/ru_ru.local"
+hash = "2120cd2e1de7d8ec9ee8d18f24db70645e92042ba55ffbbc68403ecdc8a50fce"
+
+[[files]]
+file = "config/fancymenu/locals/uk_ua.local"
+hash = "c9a592ff8445f3d8d6a87a59df27e72a67b71afcf0fc03dad27a5ded2f94a780"
+
+[[files]]
+file = "config/fancymenu/locals/zh_cn.local"
+hash = "50cf30919fd2c7b11f6ce246425d657e3b93dfb919a0b6fe4730dc5d9fee0d2a"
+
+[[files]]
+file = "config/fancymenu/menu_identifiers.db"
+hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
+
+[[files]]
 file = "mods/!configanytime-3.0.jar"
 hash = "29fe190f0d1bb0b3841b2b9f315a5d561cab9f587df6164a0205440540577575"
 
@@ -103,6 +155,10 @@ hash = "db046268d6dd862c21d85374c4c5c18d149554d6cb43a4578ccc8057f44baefc"
 [[files]]
 file = "mods/Hwyla-1.8.26-B41_1.12.2.jar"
 hash = "e9ddecd4920ee9a57e11e4b43fb1dd395bbf37e276be726a99a2590272304124"
+
+[[files]]
+file = "mods/Immersive Vehicles-1.12.2-22.18.1.jar"
+hash = "1fca3c6cbc5a5c15ad96aaa88e5651736a7885be71161f8c0298358bf5c634a2"
 
 [[files]]
 file = "mods/JustEnoughResources-1.12.2-0.9.3.203.jar"
