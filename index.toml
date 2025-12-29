@@ -289,11 +289,6 @@ file = "mods/melonlib-1.12.2-1.8.1.jar"
 hash = "9c9031400322ffe34df0bfc3eeef9ee2077b5db7fb1fa3f173d054b2f1998c58"
 
 [[files]]
-file = "mods/minecraft-transport-simulator.pw.toml"
-hash = "e5be21ed9ef2940a4692b95e53920111b28bf505a90885c22466a571d106a92e"
-metafile = true
-
-[[files]]
 file = "mods/movingelevators-1.4.11-forge-mc1.12.jar"
 hash = "d7c69d03c03862785e4514a6c0e556c07108f110a80fae40b152c36b8615d5d4"
 
@@ -352,11 +347,6 @@ hash = "d5ac0bce174b18cbe5a561752d035d6f5ec584f939a7ab85c1965084c4448745"
 [[files]]
 file = "mods/unu-civilian-pack-for-mts.pw.toml"
 hash = "abe18d0732dc2108e3c4fb53475a7163f2a83ac13043e8e28c86a27653b26190"
-metafile = true
-
-[[files]]
-file = "mods/unu-parts-pack.pw.toml"
-hash = "674b38b08ea9b1f585060857cd34a856474f80679848db2fb4f67e3e6b025301"
 metafile = true
 
 [[files]]
