@@ -53,6 +53,10 @@ file = "config/fancymenu/user_variables.db"
 hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
 
 [[files]]
+file = "config/relictium-options.json"
+hash = "5070cacd7436f11b3e23adaf5202f65c4919501cdce940fe43794c80ddccdca9"
+
+[[files]]
 file = "mods/!configanytime-3.0.jar"
 hash = "29fe190f0d1bb0b3841b2b9f315a5d561cab9f587df6164a0205440540577575"
 
@@ -356,3 +360,11 @@ hash = "9400e7f0d775ba2b6ee67aea0710e252d4e9e7d40c6e03ae9d8bed1b6d1effa2"
 [[files]]
 file = "mods/vintagefix-0.6.2.jar"
 hash = "03a946ed9b6dcc459f4e9765fe4aad61a7fcaf9886ac115e8ba1902fbddbf60c"
+
+[[files]]
+file = "resourcepacks/Modernity-f3-3.10.2.zip"
+hash = "a934b1752d5b979ca0d0c9106969a43ac19b3bafdb794e8c899cbcda266bd592"
+
+[[files]]
+file = "servers.dat"
+hash = "0f427e0450dd38d6848972d18dd57f0c8edf2dbdb8180667fb5b9634bdf7b421"
