@@ -57,6 +57,10 @@ file = "config/relictium-options.json"
 hash = "5070cacd7436f11b3e23adaf5202f65c4919501cdce940fe43794c80ddccdca9"
 
 [[files]]
+file = "mods/!Red-Core-MC-1.8-1.12-0.7.jar"
+hash = "6c91c140db0ed160e132d254139f2104a6a3f6ca6c69ac54a38018067ae8466d"
+
+[[files]]
 file = "mods/!configanytime-3.0.jar"
 hash = "29fe190f0d1bb0b3841b2b9f315a5d561cab9f587df6164a0205440540577575"
 
@@ -67,6 +71,10 @@ hash = "8bb53080aede2d2b1e1c5f713bbf49a38f20add8caa3d52fabcdf8a536b55a18"
 [[files]]
 file = "mods/AdPother-1.12.2-1.2.25.0-build.0673.jar"
 hash = "7f9698b2416612e1b8a5ff51d08efe0c59b26eb17aeeb7aa7e715b143b3faca4"
+
+[[files]]
+file = "mods/Alfheim-1.6(1).jar"
+hash = "730bb0425c97d394c86712e27f71c93069d5b95877bd54f70fc56235eeef33ef"
 
 [[files]]
 file = "mods/AppleCore-mc1.12.2-3.4.0.jar"
@@ -165,6 +173,10 @@ file = "mods/Immersive Vehicles-1.12.2-22.18.1.jar"
 hash = "1fca3c6cbc5a5c15ad96aaa88e5651736a7885be71161f8c0298358bf5c634a2"
 
 [[files]]
+file = "mods/InventoryHUD-1.12.2.forge-3.4.4.jar"
+hash = "981d33046ab0ca5f27b156070c3077e35a11ccc9bad5452bfc3a43a6076f7357"
+
+[[files]]
 file = "mods/JustEnoughResources-1.12.2-0.9.3.203.jar"
 hash = "dfacf1111862a95ed5803499ce5229a194a2e92be7e308fd5f423b017addbc09"
 
@@ -193,6 +205,10 @@ file = "mods/NoiseThreader-1.1.2.jar"
 hash = "cf14fc252c48d1ba8f80f8afff9977c8d36961b1c058ff88b57ee47a88822725"
 
 [[files]]
+file = "mods/OceanicExpanse-1.2.2.jar"
+hash = "b486bcd10945f50733e3a790c0ffd8a010b12d9cc1dd457a5d2859e7e57e5808"
+
+[[files]]
 file = "mods/RenderLib-1.12.2-1.4.5.jar"
 hash = "eeca6dc4ef5acf3069e4b8747e4dbfa253323cc44cd90c8ddb6d70587fe0d35f"
 
@@ -203,6 +219,10 @@ hash = "c9d4c4761f88e9e2e453778fd48d33288b48e07846e1fc578a5eea56ba0b888c"
 [[files]]
 file = "mods/SmoothFont-mc1.12.2-2.1.4.jar"
 hash = "986090ef0d56be1d6f46a9dae7a3669098c0e3f995ed6ba3d2b01223ce9b129a"
+
+[[files]]
+file = "mods/TickDynamic-1.12.2-1.0.5.jar"
+hash = "a4a5fec1b78bf6f317a0a577f30c89b13115d75653ce480bf8d3cb453c639fc4"
 
 [[files]]
 file = "mods/ToolBelt-1.12.2-1.9.14.jar"
@@ -318,7 +338,7 @@ hash = "5bcc67ff15e7b0155268dda6b78b103d6abf658ad5c9ca0187f26923d34151fb"
 
 [[files]]
 file = "mods/offlinelogin-1.0.0.jar"
-hash = "cda1d0cb467d9248ee0a64aaa54518185b11957fcb487771b12c04f4c0a22464"
+hash = "b5bfcfb75038519fccd084780efd20fb65ea9943001d38842f557c67085cc02e"
 
 [[files]]
 file = "mods/performant-1.11.jar"
@@ -330,7 +350,7 @@ hash = "c1f63d4049e590c56aa900ca2e22808ed112b7e504916dc88e2179fd18476295"
 
 [[files]]
 file = "mods/primebank-1.0.jar"
-hash = "1400c017b4da331fbd76e4571369266fd11af10c2414ee21e2d94dded3c2405e"
+hash = "02a28412e7441a33a819517599f27249828592369b027a76066b2cc832143756"
 
 [[files]]
 file = "mods/rawinput-1.8.0.jar"
@@ -372,6 +392,10 @@ hash = "9400e7f0d775ba2b6ee67aea0710e252d4e9e7d40c6e03ae9d8bed1b6d1effa2"
 [[files]]
 file = "mods/vintagefix-0.6.2.jar"
 hash = "03a946ed9b6dcc459f4e9765fe4aad61a7fcaf9886ac115e8ba1902fbddbf60c"
+
+[[files]]
+file = "mods/zspacket-0.0.1.jar"
+hash = "c6678ba2dbe0b23bdf1f8aac51424f017f07bc58805d2ad8222b91a328f0bff6"
 
 [[files]]
 file = "options.txt"
