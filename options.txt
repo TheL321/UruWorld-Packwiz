@@ -18,7 +18,7 @@ renderClouds:true
 resourcePacks:["Modernity-f3-3.10.2.zip"]
 incompatibleResourcePacks:[]
 lastServer:localhost
-lang:en_us
+lang:es_es
 chatVisibility:0
 chatColors:true
 chatLinks:true
@@ -159,8 +159,8 @@ key_key.journeymap.fullscreen.north:200
 key_key.journeymap.fullscreen.south:208
 key_key.journeymap.fullscreen.east:205
 key_key.journeymap.fullscreen.west:203
-soundCategory_master:0.80794704
-soundCategory_music:1.0
+soundCategory_master:1.0
+soundCategory_music:0.8028169
 soundCategory_record:0.8028169
 soundCategory_weather:0.8028169
 soundCategory_block:0.8028169
