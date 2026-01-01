@@ -6,11 +6,11 @@ hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "5df25d7cebbe46df3cc055b10cc0889cb5596dcce1501ba7544d23589c4a8dbb"
+hash = "9d75e1a6489dffbd68749dec0f64c56358f2296ef1b4e1d937472634ae387e0e"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "6dfe1a1fa3c8bea225b68ea388db57cbce7f373766479e195b8b89104432c6d7"
+hash = "e758c04b51bd90694ea91c7a8461f5b0f0fb425f29d8d2fd06dc1ef6c3d34f3e"
 
 [[files]]
 file = "config/fancymenu/customization/uruworld.txt"
