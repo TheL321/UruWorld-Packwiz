@@ -5,6 +5,10 @@ file = ".nojekyll"
 hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
 
 [[files]]
+file = "config/creativeaudit.cfg"
+hash = "ad7d337caf474f93ea3075f7a304ad7e0bfa9914a278ddb5507ab3b3e7a61624"
+
+[[files]]
 file = "config/fancymenu/config.txt"
 hash = "9d75e1a6489dffbd68749dec0f64c56358f2296ef1b4e1d937472634ae387e0e"
 
@@ -57,10 +61,6 @@ file = "config/inventoryhud.cfg"
 hash = "3bdfbb3bf597bcbc97b425ae60fd31708bc954e689a462511726362463de10c4"
 
 [[files]]
-file = "config/relictium-options.json"
-hash = "5070cacd7436f11b3e23adaf5202f65c4919501cdce940fe43794c80ddccdca9"
-
-[[files]]
 file = "mods/!Red-Core-MC-1.8-1.12-0.7.jar"
 hash = "6c91c140db0ed160e132d254139f2104a6a3f6ca6c69ac54a38018067ae8466d"
 
@@ -71,6 +71,14 @@ hash = "29fe190f0d1bb0b3841b2b9f315a5d561cab9f587df6164a0205440540577575"
 [[files]]
 file = "mods/!mixinbooter-10.7.jar"
 hash = "8bb53080aede2d2b1e1c5f713bbf49a38f20add8caa3d52fabcdf8a536b55a18"
+
+[[files]]
+file = "mods/+Fugue-0.22.6.jar"
+hash = "3ce8cbb9851122107e99d029ae9714e443dec4533b5ab02994bddaf571c867ab"
+
+[[files]]
+file = "mods/AdChimneys-1.12.2-3.5.16.0-build.0654.jar"
+hash = "a77aedaca518d74ade39b190208d2bd9ce4df403a272c943af84a027f8f19cbd"
 
 [[files]]
 file = "mods/AdPother-1.12.2-1.2.25.0-build.0673.jar"
@@ -87,6 +95,10 @@ hash = "9e4980728afb5941bdd67c435d2fddf260d88685563343f32d009bae01b64962"
 [[files]]
 file = "mods/AquaAcrobatics-1.15.4.jar"
 hash = "506ee8e264c347fad33302183b8f4daddb05d5e5f75c0b6d833266c886e127ce"
+
+[[files]]
+file = "mods/Atlas-Lib-1.12.2-1.1.9.jar"
+hash = "570575161ab7338d755e1bcc840c5226271ee54121da775b41e0f8e0d96ea735"
 
 [[files]]
 file = "mods/BetterAdvancements-1.12.2-0.1.0.77.jar"
@@ -109,16 +121,16 @@ file = "mods/Chisel-MC1.12.2-1.0.2.45.jar"
 hash = "64c62f20a89939db2c03d47737c7bd371d8bd8c10ae42e2e8c63432ae89db2c7"
 
 [[files]]
-file = "mods/Clumps-3.1.2.jar"
-hash = "f3ce670e0087f4c6b770fd05ae5c3dfd8462f74c62397932ea72954d1c6c8df4"
+file = "mods/Cosmetic-Wood-2-1.12.2-2.0.0.jar"
+hash = "7ec2b67ec44b2d4d7cbf176eb1ea5c0910cffc23ef0edf999da5b3860425ba57"
 
 [[files]]
 file = "mods/CreativeCore_v1.10.71_mc1.12.2.jar"
 hash = "b0ef34ec816fa91451f8d4b62c016c159ab3559d6f75870790d1215943f009d5"
 
 [[files]]
-file = "mods/DynamicTrees-1.12.2-0.9.29.jar"
-hash = "82b779226d671ebbe305fca7d673a10fbc192508d7667273628b5c299e6fd83c"
+file = "mods/DramaticTrees-1.12.2-0.13.4.jar"
+hash = "b86dae768ccc1182c52e5b9a8756a5906da53dc125d48bfe1c8dc69204a77ffe"
 
 [[files]]
 file = "mods/DynamicTreesBOP-1.12.2-1.5.2.jar"
@@ -137,24 +149,20 @@ file = "mods/FTBBackups-1.1.0.1(1).jar"
 hash = "6b6bcbbf6ac4528657345e1696339528a44643ecb06e6137908eafb8432bd962"
 
 [[files]]
+file = "mods/Fixeroo-2.3.6.jar"
+hash = "5c4f4a9929e3829e1f048ef670256cb6d2704e7e5f754ed5e56333e6d59cba90"
+
+[[files]]
 file = "mods/ForgeEndertech-1.12.2-4.5.6.1-build.0648.jar"
 hash = "21e155cacd664ba822862ce459cd4b5c8aa56d4273d66d1408904b71b6115104"
 
 [[files]]
-file = "mods/Forgelin-1.8.4.jar"
-hash = "ccfcad80ef73ab815875a91979128ed58c262c479c7c0e5da65b225954bee197"
-
-[[files]]
-file = "mods/FullscreenWindowed-1.12-1.6.0-1.jar"
-hash = "4b28e3ff8c9f4a08a8c091739ff70bc5df2c682aaa640c81742df42c30e1ec42"
+file = "mods/Forgelin-Continuous-2.3.0.0.jar"
+hash = "9dca31475c6eaca448f52c22d86d4f1dd5f452dd34abe2fdd174b14273f74e3f"
 
 [[files]]
 file = "mods/Future-MC-0.2.21.jar"
 hash = "e1e6ec0397ae0479ad1d42557a03b97f9a159628f83829bb5ceab4822af978be"
-
-[[files]]
-file = "mods/GPUTape-1.12.2-1.0.4.jar"
-hash = "cfd43d4c56e23321e1f20361e7cc8ce5dbcfdf6f0d250308676bba7e687ab16c"
 
 [[files]]
 file = "mods/GustNovs-Motorsports-1.6.jar"
@@ -171,6 +179,10 @@ hash = "db046268d6dd862c21d85374c4c5c18d149554d6cb43a4578ccc8057f44baefc"
 [[files]]
 file = "mods/Hwyla-1.8.26-B41_1.12.2.jar"
 hash = "e9ddecd4920ee9a57e11e4b43fb1dd395bbf37e276be726a99a2590272304124"
+
+[[files]]
+file = "mods/IC2-Patcher-2.0.12.jar"
+hash = "06e33f920354054117a24a49309e1271f1006f7182827b4a701da0fc5a825fcf"
 
 [[files]]
 file = "mods/Immersive Vehicles-1.12.2-22.18.1.jar"
@@ -201,14 +213,6 @@ file = "mods/MTS Official Pack-1.12.2-V28.2.jar"
 hash = "b861e95211ab09458791407b09841016222c75dde18e12e06797a172c34d9551"
 
 [[files]]
-file = "mods/MouseTweaks-2.10.1-mc1.12.2.jar"
-hash = "5e13315f4e0d0c96b1f9b800a42fecb89f519aca81d556c91df617c8751aa575"
-
-[[files]]
-file = "mods/NoiseThreader-1.1.2.jar"
-hash = "cf14fc252c48d1ba8f80f8afff9977c8d36961b1c058ff88b57ee47a88822725"
-
-[[files]]
 file = "mods/OceanicExpanse-1.2.2.jar"
 hash = "b486bcd10945f50733e3a790c0ffd8a010b12d9cc1dd457a5d2859e7e57e5808"
 
@@ -221,8 +225,12 @@ file = "mods/Ruins-1.12.2.jar"
 hash = "c9d4c4761f88e9e2e453778fd48d33288b48e07846e1fc578a5eea56ba0b888c"
 
 [[files]]
-file = "mods/SmoothFont-mc1.12.2-2.1.4.jar"
-hash = "986090ef0d56be1d6f46a9dae7a3669098c0e3f995ed6ba3d2b01223ce9b129a"
+file = "mods/Scalar Legacy-1.0.1.jar"
+hash = "350d1c378f3b0ac8e7b3df0432482bbb5341c79d07df843c747be1d5fdc23cfe"
+
+[[files]]
+file = "mods/StellarCore-1.5.22.jar"
+hash = "e6235c16ab45ed5497b4664b1eb236abd63cd13ebe4b5d968014478cb7b59403"
 
 [[files]]
 file = "mods/TickDynamic-1.12.2-1.0.5.jar"
@@ -261,12 +269,20 @@ file = "mods/_supermartijn642corelib-1.1.18a-forge-mc1.12.jar"
 hash = "ba6a04d2b6bf5cb962ae650c1c063deb483317f07b9194f6ca9d6642183808cd"
 
 [[files]]
-file = "mods/`FermiumBooter-1.4.1.jar"
-hash = "acbf49a2ace819b775e648c079634fc0a6c8a54cdf1bc2098eb0dd8f011afe6b"
-
-[[files]]
 file = "mods/bettercaves-1.12.2-2.0.4.jar"
 hash = "b81b66c2b90431d0cd764f95a2d7ff4561052fa040e8e694b7e2b8e8fa974a00"
+
+[[files]]
+file = "mods/celeritas-forge-mc12.2-2.4.0-dev.jar"
+hash = "cde0b7dc93829b81999ca896d83b3a00ce488ec9e7eb686da66d4b14e30eb069"
+
+[[files]]
+file = "mods/celeritasdynamiclights-1.2.7.jar"
+hash = "3d7d21c355a5b00d166ebddfd4d7a98ae7836612071bd149487b122d9b97fbe3"
+
+[[files]]
+file = "mods/cfm-rebuilt-1.12.2-6.9.0.jar"
+hash = "34d145e831a8872e9c1e936427f35c871cdbe314760803db0296727bc81263f1"
 
 [[files]]
 file = "mods/comforts-1.12.2-1.4.1.3.jar"
@@ -285,12 +301,8 @@ file = "mods/fancymenu_forge_2.14.9_MC_1.12-1.12.2.jar"
 hash = "a803fe18e69f4df03de1b296f8d3c19848d2424f3435cc5e0ecd481436d5094f"
 
 [[files]]
-file = "mods/fermiumasm-5.28(1).jar"
-hash = "e6bd769fc38d4f3d89cbc6d3b793c406977d54baae0a6f3572681439a1e72f0d"
-
-[[files]]
-file = "mods/furniture-6.3.2-1.12.2.jar"
-hash = "f412373512e14b431736ec54f465bf196b81c07939fa484202f457e1c0fbf144"
+file = "mods/flare-0.7.0(1).jar"
+hash = "51fe94aef26729b875d1e5378f09ab9ecaa23bd9cc94a7eda3d478ad85dbbb8b"
 
 [[files]]
 file = "mods/guns-0.15.3-1.12.2.jar"
@@ -317,6 +329,10 @@ file = "mods/lemonskin-3.0.2.jar"
 hash = "44b8205ab58d7f7a5aa5ce2da767de34cc470311ab05b1af63edace089349406"
 
 [[files]]
+file = "mods/loliasm-5.30.jar"
+hash = "a5f97ffc4a4495d5a9157fa03fdfb2a636650d68e1c29274c5de0b248d1777ea"
+
+[[files]]
 file = "mods/malisiscore-1.12.2-6.5.1.jar"
 hash = "7dfc575fe73e4b38d25fca925e8248d12956b63cb874d38a66e224d7bc794226"
 
@@ -327,6 +343,10 @@ hash = "d2f453fde73d40cfcde685f5c87c0d11dcc8e8ef31f38439e76a3e7c53809e99"
 [[files]]
 file = "mods/melonlib-1.12.2-1.8.1.jar"
 hash = "9c9031400322ffe34df0bfc3eeef9ee2077b5db7fb1fa3f173d054b2f1998c58"
+
+[[files]]
+file = "mods/mousetweaks-1.12.2-3.1.5.jar"
+hash = "4874dc0e614ea47f4c049875ffffc4a48b79dceebb5b76f41945b42dfd624175"
 
 [[files]]
 file = "mods/movingelevators-1.4.11-forge-mc1.12.jar"
@@ -342,11 +362,7 @@ hash = "5bcc67ff15e7b0155268dda6b78b103d6abf658ad5c9ca0187f26923d34151fb"
 
 [[files]]
 file = "mods/offlinelogin-1.0.0.jar"
-hash = "a7f8838865f398ab7f14ada97db5cb46f7c6d95ace2cde7b3a47a64d7f53c59b"
-
-[[files]]
-file = "mods/performant-1.11.jar"
-hash = "09a0abb8f2ad8b10f91ace86fe9d788927399c03bafb1d7c951fabffa1a280b0"
+hash = "b9185abf60de43b9303583ca68c98a6a80317312f6b65c2fb7e20a294bdb7080"
 
 [[files]]
 file = "mods/pipeblocker-forge17_112-1.2.0.jar"
@@ -354,23 +370,7 @@ hash = "c1f63d4049e590c56aa900ca2e22808ed112b7e504916dc88e2179fd18476295"
 
 [[files]]
 file = "mods/primebank-1.0.jar"
-hash = "02a28412e7441a33a819517599f27249828592369b027a76066b2cc832143756"
-
-[[files]]
-file = "mods/rawinput-1.8.0.jar"
-hash = "decf329cd665cf382a7e2f2f9ac7649ecd3c60ea6d5c415de80a3ee02d3d4a64"
-
-[[files]]
-file = "mods/relictium-1.2.0.jar"
-hash = "af8bb72fa727d7ece4259d738598426696c449b222d569da90801215ab14578e"
-
-[[files]]
-file = "mods/serializationisbad-1.5.2.jar"
-hash = "2031c8edce4b124f29a33c9ba892b9049d19fcff4c711e2aa276d051cf0d5d31"
-
-[[files]]
-file = "mods/spark-unforged-1.11.140-forge.jar"
-hash = "4c66e72dd11d8b5b4c43bca24dffbdd8fe52054ca03907b92505cdf1eda38914"
+hash = "efec0a8f4dcd0481a3bdeba5574fe57f6f406b062ad8ab113357a2a862919718"
 
 [[files]]
 file = "mods/startuptimer-1.1.0.jar"
