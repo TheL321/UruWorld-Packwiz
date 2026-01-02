@@ -5,6 +5,10 @@ file = ".nojekyll"
 hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
 
 [[files]]
+file = "config/celeritas-options.json"
+hash = "ea713f6ce5d280949627519fa719260f8cdc179c3d78145169a9ff4e7daf7807"
+
+[[files]]
 file = "config/creativeaudit.cfg"
 hash = "ad7d337caf474f93ea3075f7a304ad7e0bfa9914a278ddb5507ab3b3e7a61624"
 
