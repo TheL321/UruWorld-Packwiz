@@ -13,6 +13,10 @@ file = "config/creativeaudit.cfg"
 hash = "ad7d337caf474f93ea3075f7a304ad7e0bfa9914a278ddb5507ab3b3e7a61624"
 
 [[files]]
+file = "config/embeddium-options.json"
+hash = "8d5a44b02d623f1a3d0b94f486b0be60b194145c7ce3fdda9d2342ecee93d4ef"
+
+[[files]]
 file = "config/fancymenu/config.txt"
 hash = "9d75e1a6489dffbd68749dec0f64c56358f2296ef1b4e1d937472634ae387e0e"
 
