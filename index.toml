@@ -273,6 +273,10 @@ file = "mods/_supermartijn642corelib-1.1.18a-forge-mc1.12.jar"
 hash = "ba6a04d2b6bf5cb962ae650c1c063deb483317f07b9194f6ca9d6642183808cd"
 
 [[files]]
+file = "mods/backpacked-1.4.3-1.12.2.jar"
+hash = "968ddf30f7253d3ef51a1e2128243b142e85d47ab20136c27f32f4baccd3cb5e"
+
+[[files]]
 file = "mods/bettercaves-1.12.2-2.0.4.jar"
 hash = "b81b66c2b90431d0cd764f95a2d7ff4561052fa040e8e694b7e2b8e8fa974a00"
 
