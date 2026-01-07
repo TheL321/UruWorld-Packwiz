@@ -137,8 +137,20 @@ file = "mods/Cosmetic-Wood-2-1.12.2-2.0.0.jar"
 hash = "7ec2b67ec44b2d4d7cbf176eb1ea5c0910cffc23ef0edf999da5b3860425ba57"
 
 [[files]]
+file = "mods/CosmeticArmorReworked-1.12.2-v5a.jar"
+hash = "a1dac96cf2168015255f4cad8748e8b969e99bd0919e9cb78deb9198ee9753e8"
+
+[[files]]
+file = "mods/Craftspeed 1.7.2 (1.12).jar"
+hash = "daf11502db2297bedf5b831a10ac0b20789b127082fe78d76cbeac742207ba7d"
+
+[[files]]
 file = "mods/CreativeCore_v1.10.71_mc1.12.2.jar"
 hash = "b0ef34ec816fa91451f8d4b62c016c159ab3559d6f75870790d1215943f009d5"
+
+[[files]]
+file = "mods/CustomNPCs_1.12.2-(05Jul20).jar"
+hash = "2759356b95ffb6a88c14997ff508dfe30f66abaa8e2d8029e18e02dcb57bc8cc"
 
 [[files]]
 file = "mods/DramaticTrees-1.12.2-0.13.4.jar"
@@ -177,8 +189,8 @@ file = "mods/Future-MC-0.2.21.jar"
 hash = "e1e6ec0397ae0479ad1d42557a03b97f9a159628f83829bb5ceab4822af978be"
 
 [[files]]
-file = "mods/GustNovs-Motorsports-1.6.jar"
-hash = "255980df26dfb6833167b8e86883dae1da2d744c0aea9e353e3e8eb964292009"
+file = "mods/GustNovs-Motorsports-1.6.1-(1.12.2).jar"
+hash = "184701bdac6f76afe4a2d8c2b17f9d129cb4c1dbaa4a7c557041d90216ef3c1b"
 
 [[files]]
 file = "mods/HadEnoughItems_1.12.2-4.29.8.jar"
@@ -301,6 +313,10 @@ file = "mods/cfm-rebuilt-1.12.2-6.9.0.jar"
 hash = "34d145e831a8872e9c1e936427f35c871cdbe314760803db0296727bc81263f1"
 
 [[files]]
+file = "mods/collective-1.12.2-3.0.jar"
+hash = "43541ab1d57cf5aa3aba63fa34b6b6ebffd67f602b9fb4d220e4bec365cb754c"
+
+[[files]]
 file = "mods/comforts-1.12.2-1.4.1.3.jar"
 hash = "62183a1fa282032e2fea2c3ff6348611a03685a50769199243a42d38605d08a6"
 
@@ -327,6 +343,10 @@ hash = "62325d26dfb2d7c2e4dfdd5f5609fb51a4f7222b35a22b9b6e42a950b9c92d80"
 [[files]]
 file = "mods/industrialcraft-2-2.8.222-ex112.jar"
 hash = "f96b1886b6d060b308fb811029d5c5cc76deb17b835aa368dcb6071f2de290d4"
+
+[[files]]
+file = "mods/ironchest-1.12.2-7.0.72.847.jar"
+hash = "29d3a4115d67b83eb542b618eb64db40db23a7f009a0f4dc9a396101d6f8491f"
 
 [[files]]
 file = "mods/ironfurnaces-1.3.5.jar"
@@ -408,6 +428,10 @@ metafile = true
 [[files]]
 file = "mods/vehicle-mod-0.44.1-1.12.2.jar"
 hash = "9400e7f0d775ba2b6ee67aea0710e252d4e9e7d40c6e03ae9d8bed1b6d1effa2"
+
+[[files]]
+file = "mods/villagernames_1.12.2-3.4.jar"
+hash = "6cf76898738c6ae4e107b19328f8f65327ce20d9cfd4da67fdb08518fdb8f564"
 
 [[files]]
 file = "mods/vintagefix-0.6.2.jar"
