@@ -398,7 +398,7 @@ hash = "5bcc67ff15e7b0155268dda6b78b103d6abf658ad5c9ca0187f26923d34151fb"
 
 [[files]]
 file = "mods/offlinelogin-1.0.0.jar"
-hash = "b9185abf60de43b9303583ca68c98a6a80317312f6b65c2fb7e20a294bdb7080"
+hash = "9da89b59f0ff53684ce2a8c2688d168bace5ee7241c3cd5c73e784afe333e6d0"
 
 [[files]]
 file = "mods/pipeblocker-forge17_112-1.2.0.jar"
@@ -406,7 +406,7 @@ hash = "c1f63d4049e590c56aa900ca2e22808ed112b7e504916dc88e2179fd18476295"
 
 [[files]]
 file = "mods/primebank-1.0.jar"
-hash = "d0be1afcf5492248feb77cbd2ae3b7c928f26c3c749215f0299cd37980b9432f"
+hash = "e4bbdd3def2d5dac2f951c5d1490706d9205afd0d2eef8c80a325367dfba8db2"
 
 [[files]]
 file = "mods/startuptimer-1.1.0.jar"
@@ -422,7 +422,7 @@ hash = "d5ac0bce174b18cbe5a561752d035d6f5ec584f939a7ab85c1965084c4448745"
 
 [[files]]
 file = "mods/unu-civilian-pack-for-mts.pw.toml"
-hash = "abe18d0732dc2108e3c4fb53475a7163f2a83ac13043e8e28c86a27653b26190"
+hash = "6998a5b702e7c563874e12c7d0d18192d15080445577d138eae90be865978c32"
 metafile = true
 
 [[files]]

@@ -3,8 +3,8 @@ filename = "UNU Civilian Pack [MTS] 1.12.2-22.18.0-6.7.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "73d21d0260574ab4bedc96b9b1959ac58b3bd23f"
+hash-format = "sha256"
+hash = "b67990a679479782ce51c63d6c7e8546983fdf620b28e5441d429ce3936fd0b7"
 mode = "metadata:curseforge"
 
 [update]
