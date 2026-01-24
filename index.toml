@@ -141,6 +141,10 @@ file = "mods/CosmeticArmorReworked-1.12.2-v5a.jar"
 hash = "a1dac96cf2168015255f4cad8748e8b969e99bd0919e9cb78deb9198ee9753e8"
 
 [[files]]
+file = "mods/CraftTweaker2-1.12-4.1.20.711.jar"
+hash = "dc11a0cb527019385a732907a8057ecd673cdf6bf56d4b5358693e3c2e572a82"
+
+[[files]]
 file = "mods/Craftspeed 1.7.2 (1.12).jar"
 hash = "daf11502db2297bedf5b831a10ac0b20789b127082fe78d76cbeac742207ba7d"
 
