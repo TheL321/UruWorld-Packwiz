@@ -273,6 +273,10 @@ file = "mods/TrashSlot_1.12.2-8.4.10.jar"
 hash = "ddb13a0209cd38bdff452cf583e7453fe10f45f3c8e49e444af533d6cc82f940"
 
 [[files]]
+file = "mods/TravelersBackpack-1.12.2-1.0.35.jar"
+hash = "39a7914b5a55b7d5ad5d1192c38a66b926895317e0426a359a529de2f8028581"
+
+[[files]]
 file = "mods/UNU Parts Pack [MTS] 1.12.2-22.18.0-6.7.3.jar"
 hash = "6046dcfcb3de33b7219e8e50243d06958eee46db061ce3762a04ef0557d26a2b"
 
