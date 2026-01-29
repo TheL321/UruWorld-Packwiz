@@ -406,7 +406,7 @@ hash = "5bcc67ff15e7b0155268dda6b78b103d6abf658ad5c9ca0187f26923d34151fb"
 
 [[files]]
 file = "mods/offlinelogin-1.0.0.jar"
-hash = "9da89b59f0ff53684ce2a8c2688d168bace5ee7241c3cd5c73e784afe333e6d0"
+hash = "3ae2a11e8f14556fc98782507a6115a5c7c23a845d6fefaceb56c07d2c0eb7c6"
 
 [[files]]
 file = "mods/pipeblocker-forge17_112-1.2.0.jar"
@@ -414,7 +414,7 @@ hash = "c1f63d4049e590c56aa900ca2e22808ed112b7e504916dc88e2179fd18476295"
 
 [[files]]
 file = "mods/primebank-1.0.jar"
-hash = "e4bbdd3def2d5dac2f951c5d1490706d9205afd0d2eef8c80a325367dfba8db2"
+hash = "4a0af54d4336ab4af96d01f378aad700a36728246d54e429f23bc69dfc9b1be9"
 
 [[files]]
 file = "mods/startuptimer-1.1.0.jar"
