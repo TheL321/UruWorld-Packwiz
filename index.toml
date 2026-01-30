@@ -329,6 +329,10 @@ file = "mods/comforts-1.12.2-1.4.1.3.jar"
 hash = "62183a1fa282032e2fea2c3ff6348611a03685a50769199243a42d38605d08a6"
 
 [[files]]
+file = "mods/create-26w04a.jar"
+hash = "a49d22ef01ec9ae1a9a22b9c8d4ef718123de8d16a63635b55a10464cafe4c1d"
+
+[[files]]
 file = "mods/creativeaudit-1.0.0.jar"
 hash = "da3ebf1b40e1d23b4c3d7f5fbe13e1f8a55ad77ffe0de92e8e99690e48142ca9"
 
@@ -414,7 +418,7 @@ hash = "c1f63d4049e590c56aa900ca2e22808ed112b7e504916dc88e2179fd18476295"
 
 [[files]]
 file = "mods/primebank-1.0.jar"
-hash = "4a0af54d4336ab4af96d01f378aad700a36728246d54e429f23bc69dfc9b1be9"
+hash = "7a4884cfa94b9aeab10c14259dbed75981631edf03a1d017d9be2f09cd2614d9"
 
 [[files]]
 file = "mods/startuptimer-1.1.0.jar"
