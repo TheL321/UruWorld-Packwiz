@@ -81,8 +81,8 @@ file = "mods/!mixinbooter-10.7.jar"
 hash = "8bb53080aede2d2b1e1c5f713bbf49a38f20add8caa3d52fabcdf8a536b55a18"
 
 [[files]]
-file = "mods/+Fugue-0.22.6.jar"
-hash = "3ce8cbb9851122107e99d029ae9714e443dec4533b5ab02994bddaf571c867ab"
+file = "mods/+Fugue-0.22.10.jar"
+hash = "7268419eec9df99c78c2028cddc7743404bbf9f07ce537c1884269612dbd4879"
 
 [[files]]
 file = "mods/AdChimneys-1.12.2-3.5.16.0-build.0654.jar"
@@ -131,6 +131,10 @@ hash = "433f441dc9c0aa75a4168df832900720ddadac1f22cc3bba4e4f25ca789b268b"
 [[files]]
 file = "mods/Chisel-MC1.12.2-1.0.2.45.jar"
 hash = "64c62f20a89939db2c03d47737c7bd371d8bd8c10ae42e2e8c63432ae89db2c7"
+
+[[files]]
+file = "mods/Concrete Conversion-1.12.2-1.2.1.jar"
+hash = "064b24c5018cf3d9697d92ca16706ac7a2a3b5ffd387953f0c4ca8bffd1b12d7"
 
 [[files]]
 file = "mods/Cosmetic-Wood-2-1.12.2-2.0.0.jar"
@@ -310,11 +314,11 @@ hash = "b81b66c2b90431d0cd764f95a2d7ff4561052fa040e8e694b7e2b8e8fa974a00"
 
 [[files]]
 file = "mods/celeritas-forge-mc12.2-2.4.0-dev.jar"
-hash = "cde0b7dc93829b81999ca896d83b3a00ce488ec9e7eb686da66d4b14e30eb069"
+hash = "b22e5d4d93061e300115a812b97a3e22d859e4b9fc514d39d73a3f8622757694"
 
 [[files]]
-file = "mods/celeritasdynamiclights-1.2.7.jar"
-hash = "3d7d21c355a5b00d166ebddfd4d7a98ae7836612071bd149487b122d9b97fbe3"
+file = "mods/celeritasdynamiclights-1.2.8.jar"
+hash = "08aab93e4b8606a111381fd4b5fe34182a5856d7b793f8300ddeb9dea77417e8"
 
 [[files]]
 file = "mods/cfm-rebuilt-1.12.2-6.9.0.jar"
