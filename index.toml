@@ -381,8 +381,8 @@ file = "mods/lemonskin-3.0.2.jar"
 hash = "44b8205ab58d7f7a5aa5ce2da767de34cc470311ab05b1af63edace089349406"
 
 [[files]]
-file = "mods/loliasm-5.30.jar"
-hash = "a5f97ffc4a4495d5a9157fa03fdfb2a636650d68e1c29274c5de0b248d1777ea"
+file = "mods/loliasm-5.31.jar"
+hash = "110741f7ddbff454dea6d55ccefa56096f25973a2ef875e2e3e207566682e45a"
 
 [[files]]
 file = "mods/malisiscore-1.12.2-6.5.1.jar"
