@@ -81,8 +81,8 @@ file = "mods/!mixinbooter-10.7.jar"
 hash = "8bb53080aede2d2b1e1c5f713bbf49a38f20add8caa3d52fabcdf8a536b55a18"
 
 [[files]]
-file = "mods/+Fugue-0.23.2.jar"
-hash = "3b15c75dd9461ae15f443884d3e5d4b99e8700783740720ec81ca75e588712c4"
+file = "mods/+Fugue-0.22.10.jar"
+hash = "7268419eec9df99c78c2028cddc7743404bbf9f07ce537c1884269612dbd4879"
 
 [[files]]
 file = "mods/AdChimneys-1.12.2-3.5.16.0-build.0654.jar"
@@ -381,8 +381,8 @@ file = "mods/lemonskin-3.0.2.jar"
 hash = "44b8205ab58d7f7a5aa5ce2da767de34cc470311ab05b1af63edace089349406"
 
 [[files]]
-file = "mods/loliasm-5.31.jar"
-hash = "110741f7ddbff454dea6d55ccefa56096f25973a2ef875e2e3e207566682e45a"
+file = "mods/loliasm-5.30.jar"
+hash = "a5f97ffc4a4495d5a9157fa03fdfb2a636650d68e1c29274c5de0b248d1777ea"
 
 [[files]]
 file = "mods/malisiscore-1.12.2-6.5.1.jar"
